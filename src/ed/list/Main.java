@@ -9,7 +9,7 @@ package ed.list;
  *
  * @author Dell
  */
-public class EDList {
+public class Main {
 
     /**
      * @param args the command line arguments
